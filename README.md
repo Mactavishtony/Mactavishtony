@@ -73,7 +73,7 @@ I build and maintain hands-on SOC labs to simulate real-world detection and resp
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gopalakrishnan-palpandi-a730b6292/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/gopalakrishnan-palpandi/">LinkedIn</a> •
   <a href="https://x.com/goptony001">X</a> •
   <a href="mailto:goptony001@gmail.com">Email</a>
 </p>
