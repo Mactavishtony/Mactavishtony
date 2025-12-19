@@ -57,9 +57,9 @@ I maintain hands-on SOC labs and simulation projects to sharpen detection and re
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •  
-  <a href="https://twitter.com/YOUR_TWITTER">Twitter</a> •  
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/gopalakrishnan-palpandi-a730b6292/">LinkedIn</a> •  
+  <a href="https://x.com/goptony001">X</a> •  
+  <a href="mailto:goptony001@gmail.com">Email</a>
 </p>
 
 ---
